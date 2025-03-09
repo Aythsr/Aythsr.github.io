@@ -15,6 +15,8 @@ add_library(MylibFlag INTERFACE)
 target_include_directories(MylibFlag INTERFACE
     $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>)
 
+add_subdirectory(threeLib)
+
 add_subdirectory(src)
 
 add_subdirectory(test)
