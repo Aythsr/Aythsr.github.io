@@ -11,6 +11,8 @@
 ├── src/                  # 源代码
 ├── test/                 # 测试代码
 ├── examples/             # 示例代码
+├── docs/                 # 文档
+├── thirdparty            # 三方库
 └── cmake/                # CMake模块和配置
 ```
 
