@@ -32,6 +32,6 @@ ctest
 
 ## 依赖
 
-- CMake 3.14 或更高版本
+- CMake 3.20 或更高版本
 - C++14 兼容的编译器
-- Google Test (可选，用于测试)
+- Google Test

@@ -4,5 +4,5 @@ add_executable(calculator_example calculator_example.cpp)
 # 链接库
 target_link_libraries(calculator_example
   PRIVATE
-    mylib
+  ${PROJECT_NAME}
 )
