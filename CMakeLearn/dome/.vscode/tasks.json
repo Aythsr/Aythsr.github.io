@@ -11,7 +11,9 @@
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
-            "problemMatcher": ["$gcc"],
+            "problemMatcher": [
+                "$gcc"
+            ],
             "detail": "使用 g++ 编译当前活动的 C++ 文件"
         }
     ]

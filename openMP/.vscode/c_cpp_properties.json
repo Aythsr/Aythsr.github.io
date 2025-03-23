@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/gcc/include/c++/14",
+                "/opt/homebrew/lib/gcc/14/gcc/aarch64-apple-darwin23/14/include"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

@@ -12,6 +12,10 @@
 
 - [sqlite的C库api学习](https://github.com/ShiningXiao233/ShiningXiao233.github.io/tree/main/sqlite)
 
-- 脚本库
+- [脚本库]()
+
+- [黄金/股票价格监控]()
+
+- [openMP学习]()
 
   

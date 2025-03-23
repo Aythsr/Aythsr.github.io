@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.cppStandard": "gnu++11",
+    "files.associations": {
+        "omp.h": "c"
+    }
+}
