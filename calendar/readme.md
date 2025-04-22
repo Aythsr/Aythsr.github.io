@@ -1,0 +1,1 @@
+使用python调用apple script创建课表日程

@@ -1,0 +1,10 @@
+[
+    {"name": "AI学习框架与科学计算", "local": "主M101", "start": "14:00", "end": "15:35", "wb": 1, "startw": 2, "endw": 17},
+    {"name": "算法设计与分析", "local": "主M101", "start": "19:00", "end": "21:25", "wb": 1, "startw": 2, "endw": 17},
+    {"name": "并行程序设计", "local": "B118", "start": "15:50", "end": "17:25", "wb": 4, "startw": 2, "endw": 17},
+    {"name": "虚拟现实综合实验", "local": "主M401", "start": "15:50", "end": "18:15", "wb": 5, "startw": 2, "endw": 17},
+    {"name": "英语阅读", "local": "B225", "start": "8:00", "end": "9:35", "wb": 2, "startw": 9, "endw": 12},
+    {"name": "英语口语", "local": "B228", "start": "8:00", "end": "9:35", "wb": 4, "startw": 9, "endw": 12},
+    {"name": "英语写作", "local": "B223", "start": "9:50", "end": "11:25", "wb": 5, "startw": 9, "endw": 16},
+    {"name": "软件体系结构", "local": "主M101", "start": "9:50", "end": "12:15", "wb": 2, "startw": 2, "endw": 17}
+]
