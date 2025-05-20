@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 import json
-from set_calendar import create_calendar_event
+from appleCalendarIf import create_calendar_event
 calendar = json.load(open("./class.json", "r", encoding="utf-8"))
 
 print(calendar)
